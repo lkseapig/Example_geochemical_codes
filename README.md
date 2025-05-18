@@ -1,1 +1,1 @@
-Example python codes for plotting of basic geochemical data - work in progress. 
+Example python codes for plotting of geochemical data - work in progress. 
